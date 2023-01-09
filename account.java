@@ -54,8 +54,7 @@ class Acount {
         if(!isMAtched){
             System.out.println("Your account has been blocked ");
         }
-
-    }
+}
 
     public double getBalance() {
         return balance;
