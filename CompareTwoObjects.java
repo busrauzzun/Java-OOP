@@ -64,7 +64,6 @@ class Student {
                 ", fName='" + fName + '\'' +
                 ", lName='" + lName + '\'' +
                 ", midterm=" + midterm ;
-
     }
 }
 
