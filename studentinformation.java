@@ -38,9 +38,7 @@ class Teacher {
         System.out.println(""+this.name);
         System.out.println(""+this.branch);
         System.out.println(""+this.mphno);
-
-
-    }
+ }
 }
 
 class Course {
