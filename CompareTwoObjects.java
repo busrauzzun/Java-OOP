@@ -59,10 +59,10 @@ class Student {
 
     @Override
     public String toString() {
-        return "Student{" +
+        return "Student" +
                 "stId=" + stId +
-                ", fName='" + fName + '\'' +
-                ", lName='" + lName + '\'' +
+                ", fName='" + fName  +
+                ", lName='" + lName  +
                 ", midterm=" + midterm ;
     }
 }
