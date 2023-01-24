@@ -31,7 +31,6 @@ public class Main {
 
     }
 }
-
 class BankAccount implements Comparable <BankAccount>{
     int accountNo;
     String holderName;
